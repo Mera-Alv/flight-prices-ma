@@ -1,5 +1,5 @@
 # flight-prices-ma
-This project predicts flight airfare using key factors like travel duration, distance, and refundability, rather than the purchase date. Using PySpark in Google Cloud Platform, the dataset was cleaned and analyzed with linear regression. Key insights include the impact of seasonality and flight specifics on ticket prices.
+This project predicts flight airfare using key factors like travel duration, distance, and refundability, rather than the purchase date. Using PySpark on Google Cloud Platform, the dataset was cleaned and analyzed with linear regression. Key insights include the impact of seasonality and flight specifics on ticket prices.
 
 # File Descriptions
 - **EDA Analysis.ipynb**: Performs exploratory data analysis with visualizations to understand the data and identify patterns.
