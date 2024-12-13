@@ -6,3 +6,8 @@ This project predicts flight airfare using key factors like travel duration, dis
 - Analyze how various factors such as refundability, travel duration, and seasonality impact ticket prices.
 - Build a linear regression model to make predictions and identify key insights.
 - Visualize fare distribution and correlations between variables.
+
+# Run Notebooks in following order:
+  - EDA Analysis.ipynb
+  - Data Cleaning.ipynb
+  - Feature Engineering & Visualizations.ipynb
